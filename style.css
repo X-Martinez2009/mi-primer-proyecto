@@ -4,17 +4,14 @@ body {
     padding: 20px;
     background-color: #f0f8ff;
 }
-
 h1 {
     color: #2c3e50;
     text-align: center;
 }
-
 p {
     color: #34495e;
     line-height: 1.6;
 }
-
 button {
     background-color: #3498db;
     color: white;
@@ -25,7 +22,6 @@ button {
     display: block;
     margin: 20px auto;
 }
-
 button:hover {
     background-color: #2980b9;
 }
